@@ -11,7 +11,7 @@ class Result extends StatelessWidget {
       children: <Widget>[
         Center(
           child: Text(
-            "Your Evil Score is $score!",
+            "Your Score is $score!",
             style: TextStyle(
               fontSize: 36,
               fontWeight: FontWeight.bold,
